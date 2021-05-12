@@ -14,7 +14,7 @@ class App extends Component {
         {id: 2, artist: "Naveen Polishetty", album_title: "Jathirathnalu", album_cover: "Music Radhan", songs: "Sound Track2"},
         {id: 3, artist: "Suriya", album_title: "Aakasam Nee Haddura", album_cover: "Music G. V. Prakash", songs: "Sound Track3"},
       ],
-      errorMsg: ''
+      errorMsg: '' 
     }
 
 	}
